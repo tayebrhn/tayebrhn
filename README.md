@@ -22,4 +22,4 @@ I'm a passionate **Web Developer** specializing in creating fast, responsive, an
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayebrhn)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.linkedin.com/in/tayebrhn)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tayebrhn.github.io/code_markdown_playground/)
