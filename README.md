@@ -1,4 +1,4 @@
-# Hi there, I'm Taye Birhanu 👋
+# Hi there, I'm Taye Birhanu
 
 ## About Me
 
